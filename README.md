@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnuragVerma06.
-- 👀 I’m interested in software development and anything that relates to programming.
+- 👀 I’m interested in web and software development and anything that relates to programming.
 - 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on github with like minded people.
 - 📫 Reach me through my github profile or my email: vanurag907@gmail.com
